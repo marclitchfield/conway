@@ -1,6 +1,5 @@
 var Game = function() {
 	var self = this;
-	var rows = 0, cols = 0;
 	self.map = [];
 
 	function cell(r, c) {
